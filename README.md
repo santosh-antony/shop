@@ -1,2 +1,2 @@
 # shop
-Create a shop using django framework
+Create a store using django framework
